@@ -13,7 +13,6 @@ A full-stack web application for managing employee clock-in/clock-out times with
 - ✅ Cached credentials (12-hour expiry)
 
 ### Admin Features
-- ✅ Google OAuth authentication
 - ✅ Approve/reject employee signups
 - ✅ View all employee time logs
 - ✅ Reset employee PINs
